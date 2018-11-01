@@ -1,0 +1,18 @@
+
+img{
+    position: absolute;
+    max-height: 60vh;
+    top: 300px;
+    left: 530px;
+   
+} 
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+audio:not(.player){
+    display: none;
+}
+
+
